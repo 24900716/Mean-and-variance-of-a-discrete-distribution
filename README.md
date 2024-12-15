@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
-
+# Ex no:1
+# Date:21-09-2024
+# Name:Dinesh Karthik R
+# Reg No:24900716
 
 # Aim : 
 
@@ -48,6 +51,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+Developed By:Dinesh karthik R
+
+Reg No:24900716
 ```python
 import numpy as np
 L=[int(i) for i in input().split()]
